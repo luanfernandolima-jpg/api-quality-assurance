@@ -1,3 +1,4 @@
+
 # QA Manual API Testing
 
 This repository contains a manual API testing project developed to demonstrate software quality assurance skills, including test case design, business rule validation, and bug reporting.
